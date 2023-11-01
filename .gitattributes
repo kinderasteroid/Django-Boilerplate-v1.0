@@ -1,1 +1,3 @@
 *.yaml linguist-detectable
+
+*.css linguist-detectable=false

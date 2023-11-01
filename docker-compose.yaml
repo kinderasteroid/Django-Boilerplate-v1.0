@@ -1,0 +1,5 @@
+version: '3'
+services:
+  django-server:
+    image: django-server:1.0
+  

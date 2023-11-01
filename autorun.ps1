@@ -1,9 +1,9 @@
 # Define your repository URL and destination directory
 $repoUrl = "https://github.com/kinderasteroid/Django-Boilerplate-v1.0"
-$destinationDir = "C:\Path\To\Your\Project"
+
 
 # Clone the Git repository
-git clone $repoUrl $destinationDir
+git clone $repoUrl 
 
 # Change to the project directory
 cd $destinationDir

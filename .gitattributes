@@ -1,1 +1,2 @@
 *.yml linguist-detectable
+*.js linguist-detectable=false

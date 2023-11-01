@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You Page</title>
+  <link rel="stylesheet" href="{% static 'styles.css' %}">
+</head>
+<body>
+  <div class="container">
+    <p id="message">Thank You for Cloning this repo, Your Django Server Is Installed and Running Sucessfully. This Template Is Created by<a href="https://github.com/kinderasteroid"style="color: #d60482;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"> <br> <br>KINDERASTEROID</a> <br><br><br> Do Customize this Template as per your needs </p>
+   <br><br><br><br><br><br><br>
+    <button id="countButton">Click Me</button>
+    <p id="countDisplay">Count: 0</p>
+  </div>
+  <script src="{% static 'script.js' %}"></script>
+</body>
+</html>

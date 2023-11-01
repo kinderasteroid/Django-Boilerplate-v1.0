@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #020117;
+    color: #fff;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  #message {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: cursive;
+  }
+  
+  #countButton {
+    background-color: #d60482;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  #countDisplay {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  

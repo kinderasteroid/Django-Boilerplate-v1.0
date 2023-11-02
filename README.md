@@ -17,3 +17,4 @@ py manage.py runserver
 ```
 ### Linux 
 ⚠️ON WORK⚠️
+..
